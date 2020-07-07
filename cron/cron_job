@@ -1,0 +1,2 @@
+# run every minute
+*/2 * * * * /Users/hsin/.pyenv/shims/python /Users/hsin/git/python_automation/cron/cronjob.py
